@@ -1,3 +1,6 @@
+Feel free to fork and submit pull requests for more icons!
+
+
 Icons have to be a maximum height of 25px and a maximum width of 29px.
 
 ![(creeper)](hipchat-icons/raw/master/pngs/creeper.png) (creeper)  
