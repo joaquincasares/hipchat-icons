@@ -4,6 +4,8 @@ Feel free to fork and submit pull requests for more icons!
 Icons have to be a maximum height of 25px and a maximum width of 29px.
 
 ![(creeper)](hipchat-icons/raw/master/pngs/creeper.png) (creeper)  
+![(doh)](hipchat-icons/raw/master/pngs/doh.png) (doh)  
+![(donotwant)](hipchat-icons/raw/master/pngs/donotwant.png) (donotwant)  
 ![(drugs)](hipchat-icons/raw/master/pngs/drugs.png) (drugs)  
 ![(excellent)](hipchat-icons/raw/master/pngs/excellent.png) (excellent)  
 ![(fwp)](hipchat-icons/raw/master/pngs/firstworldproblems.png) (fwp)  
