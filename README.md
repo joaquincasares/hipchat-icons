@@ -3,17 +3,20 @@ Feel free to fork and submit pull requests for more icons!
 
 Icons have to be a maximum height of 25px and a maximum width of 29px.
 
+![(bane)](hipchat-icons/raw/master/pngs/bane.png) (bane)  
 ![(creeper)](hipchat-icons/raw/master/pngs/creeper.png) (creeper)  
 ![(doh)](hipchat-icons/raw/master/pngs/doh.png) (doh)  
 ![(donotwant)](hipchat-icons/raw/master/pngs/donotwant.png) (donotwant)  
 ![(dowant)](hipchat-icons/raw/master/pngs/dowant.png) (dowant)  
 ![(drugs)](hipchat-icons/raw/master/pngs/drugs.png) (drugs)  
+![(ermahgerd)](hipchat-icons/raw/master/pngs/ermahgerd.png) (ermahgerd)  
 ![(excellent)](hipchat-icons/raw/master/pngs/excellent.png) (excellent)  
 ![(fwp)](hipchat-icons/raw/master/pngs/firstworldproblems.png) (fwp)  
 ![(goodguy)](hipchat-icons/raw/master/pngs/goodguy.png) (goodguy)  
 ![(grasshopper)](hipchat-icons/raw/master/pngs/grasshopper.png) (grasshopper)  
 ![(homestar)](hipchat-icons/raw/master/pngs/homestar.png) (homestar)  
 ![(hacker)](hipchat-icons/raw/master/pngs/hacker.png) (hacker)  
+![(keanu)](hipchat-icons/raw/master/pngs/keanu.png) (keanu)  
 ![(nooo)](hipchat-icons/raw/master/pngs/nooo.png) (nooo)  
 ![(ohyeah)](hipchat-icons/raw/master/pngs/ohyeah.png) (ohyeah)  
 ![(pony)](hipchat-icons/raw/master/pngs/pony.png) (pony)  
@@ -26,6 +29,7 @@ Icons have to be a maximum height of 25px and a maximum width of 29px.
 ![(success)](hipchat-icons/raw/master/pngs/success.png) (success)  
 ![(tp)](hipchat-icons/raw/master/pngs/tp.png) (tp)  
 ![(themoreyouknow)](hipchat-icons/raw/master/pngs/themoreyouknow.png) (themoreyouknow)  
+![(toodamnhigh)](hipchat-icons/raw/master/pngs/toodamnhigh.png) (toodamnhigh)  
 ![(twitterfail)](hipchat-icons/raw/master/pngs/twitterfail.png) (twitterfail)  
 ![(twss)](hipchat-icons/raw/master/pngs/twss.png) (twss)  
 ![(walterwhite)](hipchat-icons/raw/master/pngs/walterwhite.png) (walterwhite)  
