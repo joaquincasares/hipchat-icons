@@ -27,6 +27,7 @@ Icons have to be a maximum height of 25px and a maximum width of 29px.
 ![(stolenpony)](hipchat-icons/raw/master/pngs/stolenpony.png) (stolenpony)  
 ![(strongbad)](hipchat-icons/raw/master/pngs/strongbad.png) (strongbad)  
 ![(success)](hipchat-icons/raw/master/pngs/success.png) (success)  
+![(surprise)](hipchat-icons/raw/master/pngs/surprise.png) (surprise)  
 ![(tp)](hipchat-icons/raw/master/pngs/tp.png) (tp)  
 ![(themoreyouknow)](hipchat-icons/raw/master/pngs/themoreyouknow.png) (themoreyouknow)  
 ![(toodamnhigh)](hipchat-icons/raw/master/pngs/toodamnhigh.png) (toodamnhigh)  
