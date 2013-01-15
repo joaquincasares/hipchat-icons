@@ -7,6 +7,7 @@ Icons have to be a maximum height of 25px and a maximum width of 29px.
 ![(captainobvious)](hipchat-icons/raw/master/pngs/captainobvious.png) (captainobvious)  
 ![(creeper)](hipchat-icons/raw/master/pngs/creeper.png) (creeper)  
 ![(doh)](hipchat-icons/raw/master/pngs/doh.png) (doh)  
+![(doitlive)](hipchat-icons/raw/master/pngs/doitlive.png) (doitlive)  
 ![(donotwant)](hipchat-icons/raw/master/pngs/donotwant.png) (donotwant)  
 ![(dowant)](hipchat-icons/raw/master/pngs/dowant.png) (dowant)  
 ![(drugs)](hipchat-icons/raw/master/pngs/drugs.png) (drugs)  
