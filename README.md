@@ -39,3 +39,7 @@ Icons have to be a maximum height of 25px and a maximum width of 29px.
 ![(worms)](hipchat-icons/raw/master/pngs/worms.png) (worms)  
 ![(yougottado)](hipchat-icons/raw/master/pngs/yougottado.png) (yougottado)  
 ![(yuri)](hipchat-icons/raw/master/pngs/yuri.png) (yuri)  
+
+## Official Emoticons
+
+http://hipchat-emoticons.nyh.name/
