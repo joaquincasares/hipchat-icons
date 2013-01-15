@@ -4,6 +4,7 @@ Feel free to fork and submit pull requests for more icons!
 Icons have to be a maximum height of 25px and a maximum width of 29px.
 
 ![(bane)](hipchat-icons/raw/master/pngs/bane.png) (bane)  
+![(captainobvious)](hipchat-icons/raw/master/pngs/captainobvious.png) (captainobvious)  
 ![(creeper)](hipchat-icons/raw/master/pngs/creeper.png) (creeper)  
 ![(doh)](hipchat-icons/raw/master/pngs/doh.png) (doh)  
 ![(donotwant)](hipchat-icons/raw/master/pngs/donotwant.png) (donotwant)  
@@ -34,5 +35,6 @@ Icons have to be a maximum height of 25px and a maximum width of 29px.
 ![(twitterfail)](hipchat-icons/raw/master/pngs/twitterfail.png) (twitterfail)  
 ![(twss)](hipchat-icons/raw/master/pngs/twss.png) (twss)  
 ![(walterwhite)](hipchat-icons/raw/master/pngs/walterwhite.png) (walterwhite)  
+![(worms)](hipchat-icons/raw/master/pngs/worms.png) (worms)  
 ![(yougottado)](hipchat-icons/raw/master/pngs/yougottado.png) (yougottado)  
 ![(yuri)](hipchat-icons/raw/master/pngs/yuri.png) (yuri)  
